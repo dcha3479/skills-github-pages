@@ -1,0 +1,39 @@
+#link1 {
+    text-align:right
+}
+body {
+    background-color: yellow
+}
+h1 {
+    text-align: center
+}
+h2 {
+    text-align: center
+}
+img {
+    float: left;
+    height: 125px;
+    margin-right: 20px;
+}
+blockquote {
+    font-style: italic
+}
+span {
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+}
+li.a {
+    font-style: italic;
+    color: red;
+}
+li.b {
+    color:green;
+}
+li.c {
+    font-weight: bold;
+}
+p.a {
+    text-align: center;
+}
